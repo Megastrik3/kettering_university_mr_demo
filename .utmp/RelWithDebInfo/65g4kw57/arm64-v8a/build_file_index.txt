@@ -1,0 +1,2 @@
+C:\Users\megas\Documents\Unity Projects\MR_DEMO_PASSTHROUGH\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\megas\Documents\Unity Projects\MR_DEMO_PASSTHROUGH\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

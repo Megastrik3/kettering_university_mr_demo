@@ -1,0 +1,4 @@
+repository "MR_DEMO_PASSTHROUGH/MR_DEMO_PASSTHROUGH@2475854648255@cloud"
+  path "/"
+    br "/main"
+    co "/main"
